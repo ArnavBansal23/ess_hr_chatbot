@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Virtual environments
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Local databases and logs
+*.db
+*.sqlite3
+*.log
+
+# Pickle and FAISS files
+*.pkl
+*.faiss
+
+# Data/index folders (generated or binary)
+synthetic_hr_policy/
+.chainlit/
+.files/
+folder/
+streamlit_app/
+
+
+# Backup and swap files
+*.bak
+*.swp

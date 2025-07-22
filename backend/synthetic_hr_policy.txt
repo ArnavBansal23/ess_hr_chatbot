@@ -1,0 +1,393 @@
+# 1. Introduction
+
+Welcome to Company XYZ. This Employee Handbook outlines the rules, procedures, entitlements, and responsibilities that govern your employment. It is intended to serve as a reference document to ensure clarity, consistency, and fairness in all HR-related matters.
+
+This handbook applies to:
+- All full-time, part-time, and probationary employees
+- Across all locations and departments
+- Unless explicitly superseded by contractual terms
+
+The policies in this document are aligned with Company XYZ’s values of integrity, transparency, respect, and excellence.
+
+Company reserves the right to amend or update this policy at any time.
+
+
+# 2. Employment & Probation
+
+## 2.1 Offer of Employment
+Upon selection, each employee is issued a formal offer letter outlining the designation, salary, joining date, and reporting manager.
+
+## 2.2 Probation Period
+- All new employees are on a **6-month probation** from the date of joining.
+- During this time, the employee’s performance, conduct, and suitability will be assessed.
+- Probation can be extended once by up to 3 months, based on manager recommendation.
+- During probation, access to certain benefits (e.g., LTA, Bonus, Travel Reimbursement) may be restricted.
+
+## 2.3 Regularization
+- Upon successful completion of probation, the employee is transitioned to “Permanent” status.
+- A confirmation letter is issued post-regularization.
+- Regularized employees become eligible for full set of allowances and internal opportunities.
+
+## 2.4 Employment Categories
+- **Full-time (Permanent)**: Regular employees with all entitlements and benefits.
+- **Probationary**: Employees in the trial period of employment.
+- **Contractual / Interns**: Not covered under standard HR policies unless otherwise stated.
+
+
+
+
+# 3. Leave Policies
+
+Leave is a fundamental employee right and must be planned and applied responsibly via the ESS (Employee Self-Service) portal.
+
+## 3.1 Types of Leave
+
+### Casual Leave (CL)
+- Entitlement: 12 days per calendar year
+- Purpose: Personal errands, minor emergencies
+- Probation employees: Eligible for up to 6 CL per year
+- Cannot be clubbed with Earned Leave
+
+### Sick Leave (SL)
+- Entitlement: 10 days per calendar year
+- Purpose: Medical illness or recovery
+- Certification: Required for leaves exceeding 2 days
+- Carry-forward: Not allowed
+
+### Earned Leave (EL)
+- Accrual: 1.5 days/month (18 days/year)
+- Purpose: Vacation, long travel, personal reasons
+- Advance Notice: Minimum 7 days prior
+- Carry-forward: Up to 30 days permitted
+- Encashment: Permitted on resignation for unused EL
+
+### Maternity Leave
+- Female employees are eligible for 26 weeks of paid maternity leave as per Maternity Benefit Act.
+- Must be supported with medical certification and expected delivery date.
+
+### Paternity Leave
+- Male employees can avail up to 5 working days within 1 month of childbirth.
+- This is a one-time leave per childbirth and must be taken in one stretch.
+
+### Leave Without Pay (LWP)
+- Applied when no leave balance is available.
+- Needs approval from reporting manager and HR.
+- Impacts salary and may affect PF deductions.
+
+### Compensatory Off
+- Applicable to employees who work on designated holidays.
+- Comp-off must be claimed within 30 days of the extra workday.
+
+## 3.2 Leave Application Process
+
+- All leaves must be applied through the ESS portal.
+- Approval is routed to the reporting manager and then HR.
+- Rejection reasons will be visible in the ESS dashboard.
+- Unauthorized absence is subject to disciplinary action.
+
+## 3.3 Leave Balance
+- Real-time leave balances can be viewed via ESS.
+- Updated monthly post payroll processing.
+- Leave encashment and adjustments handled by HR.
+
+
+
+# 4. Working Hours, Attendance & Remote Work
+
+## 4.1 Office Timings
+- Regular working hours are **9:30 AM to 6:30 PM**, Monday to Friday.
+- A total of **8 hours of work + 1 hour of break** is expected daily.
+- Half-day is considered if working hours are less than 4 hours.
+
+## 4.2 Attendance System
+- Employees must mark attendance using the HRMS or biometric system.
+- Late login beyond 10:00 AM more than 3 times a month will be flagged.
+- Habitual absenteeism will lead to HR intervention.
+
+## 4.3 Work from Home (WFH) Policy
+- Employees can avail up to **2 WFH days per week**, subject to approval.
+- Approval must be granted by the reporting manager in advance.
+- Employees must remain reachable and adhere to working hours during WFH.
+
+## 4.4 Flexi Hours
+- Flexi-hours may be offered based on team needs and manager discretion.
+- A minimum daily output must be maintained.
+- Shift-based teams (Support, IT) follow separate rosters.
+
+## 4.5 Remote Work for Special Circumstances
+- Long-term remote work (e.g., relocation, health reasons) requires HR and department head approval.
+- May lead to change in location-based compensation or benefits.
+
+
+
+# 5. Salary Structure & Deductions
+
+## 5.1 Monthly Salary Components
+An employee’s monthly salary comprises the following:
+
+- Basic Pay: This is the fixed base salary and forms the foundation of salary calculations.
+- House Rent Allowance (HRA): Typically 40%–50% of Basic Pay, depending on location.
+- Provident Fund (PF): Statutory deduction; the company also contributes an equal amount.
+- Bonus: Variable component tied to individual and company performance.
+- Special Allowance: Any additional amount provided outside of structured components.
+- Medical Allowance: Reimbursable up to ₹15,000 annually against medical bills.
+- Leave Travel Allowance (LTA): Reimbursement for travel expenses under LTA scheme.
+
+
+## 5.2 Pay Cycle
+- Salary is credited on the **last working day** of each month.
+- Salary slips are available via the ESS portal.
+
+## 5.3 Deductions
+- PF: 12% of Basic Pay (employee + employer contribution)
+- Professional Tax (PT): As per state laws
+- Income Tax: As per applicable slabs
+- Absence Deductions: Based on unapproved or unpaid leaves
+
+## 5.4 Salary on Probation
+- Employees on probation may not receive Bonus or LTA unless approved.
+- Basic + HRA + PF is applicable to probation employees.
+
+
+
+
+# 6. Employee Benefits & Reimbursements
+
+## 6.1 Leave Travel Allowance (LTA)
+- Available to regular employees once per block of 2 years.
+- Covers travel fare for employee + dependent family members.
+- Must be supported by travel bills and approved itinerary.
+
+## 6.2 Medical Allowance
+- Medical expenses up to ₹15,000 annually are exempt under Section 10.
+- Bills and prescriptions must be submitted via the ESS reimbursement section.
+- Reimbursement is quarterly.
+
+## 6.3 Internet Reimbursement
+- Employees working remotely can claim up to ₹1,000/month towards home internet.
+- Monthly bills must be uploaded in ESS by the 5th of each month.
+
+## 6.4 Mobile Allowance
+- Employees in sales or client-facing roles may be eligible for ₹500–₹1000 monthly mobile allowance.
+- Subject to manager recommendation.
+
+## 6.5 Gratuity & Statutory Benefits
+- Gratuity is payable after 5 years of continuous service.
+- PF and ESI contributions are made as per statutory rules.
+
+## 6.6 Annual Health Check-Up
+- Sponsored by the company for employees over 30 years of age.
+- Conducted via partnered hospitals during Q3 of each fiscal year.
+
+
+
+
+
+# 7. Performance Management & Promotions
+
+## 7.1 Performance Appraisal Cycle
+- Company XYZ follows an **annual appraisal cycle** ending in March.
+- The appraisal includes self-review, manager review, and calibration across teams.
+- Performance is evaluated across:
+  - Role-specific KPIs
+  - Behavioral competencies
+  - Attendance & initiative
+
+## 7.2 Rating Bands
+Employees are rated on a scale of 1 to 5:
+- 5 – Outstanding
+- 4 – Exceeds Expectations
+- 3 – Meets Expectations
+- 2 – Needs Improvement
+- 1 – Unsatisfactory
+
+Ratings of 1 or 2 may require a Performance Improvement Plan (PIP).
+
+## 7.3 Promotion Guidelines
+- Employees are eligible for **promotion only after 18 months** in current role.
+- Promotions are based on:
+  - Appraisal score
+  - Skill readiness and certification
+  - Availability of higher role
+- Promotions may lead to salary revision and designation change.
+- Any policy exceptions require CHRO approval.
+
+## 7.4 Performance-Based Bonus
+- Bonuses are paid annually in April.
+- Amount is tied to individual and team performance, and company profitability.
+- Employees on probation or notice period are not eligible for bonuses.
+
+## 7.5 Performance Improvement Plan (PIP)
+- For underperforming employees (rated 1 or 2), PIP may be initiated.
+- Duration: 60–90 days with clear goals.
+- Non-completion may lead to HR disciplinary process or exit.
+
+
+
+
+
+# 8. Employee Conduct & Ethics
+
+## 8.1 Code of Conduct
+All employees must adhere to the highest standards of professionalism, integrity, and respect.
+
+Prohibited behaviors include:
+- Harassment, discrimination, or bullying
+- Disrespect toward clients, colleagues, or management
+- Data misuse or security breach
+- Conflict of interest (personal gain over company interests)
+
+## 8.2 Disciplinary Process
+- Violations are investigated by the HR Ethics Committee.
+- Disciplinary actions can range from verbal warning to termination.
+- Repeated offenses may be recorded in employee file.
+
+## 8.3 Anti-Harassment Policy
+- The company maintains a zero-tolerance stance on workplace harassment.
+- All complaints will be addressed in a confidential and timely manner.
+- The Internal Complaints Committee (ICC) handles complaints under the PoSH Act.
+
+## 8.4 Dress Code & Professionalism
+- Smart casual attire is encouraged.
+- Business formals are required for client meetings or formal events.
+- Remote employees should maintain professional video call etiquette.
+
+## 8.5 Substance Abuse Policy
+- Consumption of alcohol or drugs on office premises is strictly prohibited.
+- Any violation will result in immediate disciplinary action.
+
+
+
+
+# 9. Travel & Expense Policy
+
+## 9.1 Eligibility for Official Travel
+- Applicable for roles involving client visits, training, or field work.
+- Pre-approval is required from department head and HR.
+
+## 9.2 Travel Mode Entitlements
+
+Travel entitlements vary by employee level:
+
+- Level 1–2 employees: Eligible for Train AC 2-Tier or Economy Flight if distance > 500 km.
+- Level 3 and above: Eligible for Economy Class Flight and company-provided cab.
+- Interns: Allowed to travel via Train Sleeper Class or can claim reimbursed bus travel.
+
+## 9.3 Lodging & Stay
+- Hotel bookings will be made by the Admin Team.
+- Maximum hotel budget per night:
+  - Tier-1 Cities: ₹3500/night
+  - Tier-2/3 Cities: ₹2500/night
+
+## 9.4 Meals & Per Diem
+
+- Employees traveling to Tier-1 cities are eligible for ₹800 per day as meal allowance.
+- Employees traveling to other cities can claim ₹500 per day.
+- Reimbursements for alcohol and entertainment expenses are strictly prohibited.
+
+
+## 9.5 Reimbursement Process
+- Submit claims via ESS portal with all bills within 7 working days of travel.
+- Delays beyond 15 days may result in claim rejection.
+- Claims are reimbursed in the next payroll cycle.
+
+## 9.6 International Travel
+- Only applicable to designated roles with prior CEO approval.
+- Currency exchange and visa expenses are covered as per guidelines.
+
+
+
+
+# 10. Exit Process & Final Settlement
+
+## 10.1 Resignation
+- Employees must submit a formal resignation letter via email or HRMS portal.
+- A minimum **notice period of 30 days** is mandatory unless otherwise mentioned in the appointment letter.
+- In case of probationary employees, the notice period is **15 days**.
+
+## 10.2 Clearance & Handovers
+- Departing employees must complete:
+  - Knowledge transfer to the replacement/team
+  - Clearance from IT, Admin, and Finance
+  - Submission of all company property (laptop, access card, etc.)
+
+## 10.3 Final Settlement (FnF)
+- All dues are cleared within **30 days of exit date**.
+- Includes:
+  - Pending salary
+  - Leave encashment (for unused EL)
+  - Reimbursements
+  - Deductions (PF, loans, etc.)
+
+## 10.4 Exit Interview
+- Conducted by HR to gather feedback.
+- Voluntary, but highly recommended.
+
+## 10.5 Absconding
+- Employees absent without notice for 7 consecutive working days may be marked as absconding.
+- This leads to disciplinary closure and blacklisting from re-hiring.
+
+
+
+
+# 11. Holidays & Office Calendar
+
+## 11.1 Annual Holiday List
+- The company observes **12 public holidays** per calendar year.
+- The holiday list is released by HR at the start of each year.
+
+## 11.2 Holiday Types
+- **National Holidays**: Republic Day, Independence Day, Gandhi Jayanti
+- **Religious/Festival Holidays**: Diwali, Eid, Holi, Christmas, etc.
+- **Regional Holidays**: Based on office location (e.g., Pongal in Tamil Nadu)
+
+## 11.3 Floating Holidays
+- Each employee is eligible for **2 floating holidays** annually.
+- Can be availed for regional, personal, or religious occasions not listed.
+- Must be approved at least 7 days in advance.
+
+## 11.4 Weekly Off & Optional Working Saturdays
+- Offices remain closed on Saturday and Sunday.
+- Certain teams may work on rotational Saturdays (client support).
+- Optional Saturday work may earn compensatory off as per policy.
+
+## 11.5 Office Shutdowns
+- The company may declare a year-end shutdown (typically Dec 25–Jan 1).
+- This is announced at least 1 month in advance.
+
+
+
+
+# 12. HR Helpdesk & Grievance Redressal
+
+## 12.1 HR Helpdesk Channels
+Employees can reach out to HR for support via:
+- HRMS Ticketing System
+- Email: hr@companyxyz.com
+- In-person walk-ins during office hours (10:00 AM – 5:00 PM)
+
+Queries typically addressed:
+- Leave issues
+- Salary discrepancies
+- Benefit claims
+- Policy clarifications
+
+Employees should follow this escalation route based on the nature of their concern:
+
+- Level 1: For basic queries, contact the HR Associate.
+- Level 2: For policy clarifications or payroll disputes, escalate to the HR Manager.
+- Level 3: For legal matters or harassment complaints, approach the CHRO or the Internal Complaints Committee (ICC).
+
+## 12.3 Grievance Redressal Timeline
+- Acknowledgement: Within 2 working days
+- Resolution: Within 7–10 working days for most cases
+- Sensitive complaints are handled confidentially with priority
+
+## 12.4 Anonymous Reporting
+- Employees may report misconduct anonymously via the internal ethics portal.
+- Whistleblower confidentiality is strictly maintained.
+
+## 12.5 Feedback Loop
+- Employees are encouraged to submit policy improvement suggestions via the ESS feedback form.
+- HR reviews all feedback quarterly.
+
