@@ -15,7 +15,7 @@
 ---
 
 ## 📁 Project Structure
-
+<pre>
 ess-hr-chatbot/
 │
 ├── backend/                        # All backend (Flask) code
@@ -49,7 +49,7 @@ ess-hr-chatbot/
 ├── .files/                         # Miscellaneous or generated files (ignored in git)
 ├── folder/                         # (Legacy/experimental scripts or data)
 └── streamlit_app/                  # (Legacy Streamlit UI, not used in production)
-
+</pre>
 
 
 
