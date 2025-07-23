@@ -12,4 +12,4 @@ python-dotenv~=1.1.0
 #faiss-cpu~=1.8.0
 faiss-cpu==1.7.4
 gunicorn~=21.2.0
-langchain-huggingface~=0.0.4
+langchain-huggingface~=0.3.1
