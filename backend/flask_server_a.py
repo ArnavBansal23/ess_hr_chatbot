@@ -13,7 +13,9 @@ from langchain_core.prompts import PromptTemplate
 from langchain_community.tools.sql_database.tool import QuerySQLDatabaseTool
 from langgraph.graph import StateGraph
 from langchain_core.documents import Document
-from langchain.chat_models import init_chat_model
+# from langchain.chat_models import init_chat_model
+from langchain_groq import ChatGroq
+
 from langchain_core.runnables.history import RunnableWithMessageHistory  # For memory management
 from typing import Literal
 from collections import defaultdict
@@ -65,7 +67,8 @@ if not llama3_api_key:
 
 # LLM
 try:
-    llm = init_chat_model("llama-3.3-70b-versatile", model_provider="groq", groq_api_key=llama3_api_key)
+    # llm = init_chat_model("llama-3.3-70b-versatile", model_provider="groq", groq_api_key=llama3_api_key)
+    llm = ChatGroq(model="llama-3.3-70b-versatile", api_key=llama3_api_key)
     logger.info("LLM initialized successfully")
 
 except Exception as e:
