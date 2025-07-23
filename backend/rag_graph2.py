@@ -47,7 +47,11 @@ def build_rag_graph(rag_llm):
         return None  # Return None if LLM is not available
     embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
     try:
-        vector_store = FAISS.load_local("../synthetic_hr_policy", embedding_model, allow_dangerous_deserialization=True)
+        # vector_store = FAISS.load_local("synthetic_hr_policy", embedding_model, allow_dangerous_deserialization=True)
+        # logger.info("FAISS vector store loaded successfully.")
+        # Robust path: always relative to this script's location
+        policy_folder = os.path.join(os.path.dirname(__file__), "synthetic_hr_policy")
+        vector_store = FAISS.load_local(policy_folder, embedding_model, allow_dangerous_deserialization=True)
         logger.info("FAISS vector store loaded successfully.")
     except Exception as e:
         logger.error(f"Failed to load FAISS vector store: {e}. RAG retrieval will not work.")

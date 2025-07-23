@@ -21,9 +21,9 @@ venv/
 *.sqlite3
 *.log
 
-# Pickle and FAISS files
-*.pkl
-*.faiss
+## Pickle and FAISS files
+#*.pkl
+#*.faiss
 
 # Data/index folders (generated or binary)
 #synthetic_hr_policy/

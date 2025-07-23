@@ -22,6 +22,7 @@ def init_db():
             return None
 
         mysql_uri = f"mysql+mysqlconnector://{mysql_user}:{mysql_password}@{mysql_host}:{mysql_port}/{mysql_db_name}"
+        # mysql_uri = f"mysql+pymysql://{mysql_user}:{mysql_password}@{mysql_host}:{mysql_port}/{mysql_db_name}"
 
         db = SQLDatabase.from_uri(mysql_uri)
         logger.info("Database connected successfully.")
