@@ -764,6 +764,10 @@ def chat():
 auth_bp = create_auth_blueprint(db)
 app.register_blueprint(auth_bp, url_prefix="/auth")
 
+@app.route('/healthz')
+def healthz():
+    return "ok", 200
+
 if __name__ == '__main__':
     # app.run(port=5000, debug=False)
     import os
