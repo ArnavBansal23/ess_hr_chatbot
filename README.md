@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 - 🔐 **User Authentication:** JWT-based login/signup with role-based access (Employee, Manager, HR Admin)
 - 🧠 **RAG (Retrieval-Augmented Generation):** Answers HR policy questions using LangChain, FAISS, and LLMs
