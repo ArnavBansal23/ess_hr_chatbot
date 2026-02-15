@@ -1,5 +1,5 @@
 # 🧠 ESS HR Chatbot
-> An intelligent Employee Self-Service chatbot built with **Flask**, **React**, **LangChain**, **FAISS**, and **LLMs**. Handles HR policy Q&A, employee data queries, and secure user sessions—all via a chat interface.
+> An intelligent Employee Self-Service chatbot built with **Flask**, **React**, **LangChain**, **FAISS**, and **LLMs**. Handles HR policy Q&A, employee data queries, and secure user sessions all via a chat interface.
 
 ---
 
